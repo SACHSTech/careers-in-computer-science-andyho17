@@ -1,4 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10087130&assignment_repo_type=AssignmentRepo)
+
 # Careers in Computer Science
 
 ## Contents
@@ -94,5 +95,60 @@ UX Design is a field that provides a great deal of flexibility in terms of learn
 Furthermore, the internet is home to a plethora of free resources such as blogs, articles, and forums where you can learn from other designers and industry experts. You can also browse dedicated YouTube channels that focus on UX design and watch tutorials and case studies to hone your skills.
 
 In addition to gaining technical skills through self-teaching, you can also enhance the non-technical aspects of UX design through learning. Many new tasks require you to think creatively, which is one of the most essential skills a designer can possess.
+
+## 1.4 Real Jobs
+1. Entry: Junior UX/UI Designer Saatchi
+Salary starting at 42k (glassdoor - based on traditional pay for this position) 
+Location: Toronto, ON
+Are you a talented, multi-skilled Junior UI/UX designer with a knack for taking complex business requirements and turning them into visually exciting, seamless online experiences across multiple platforms, browsers, and devices? Awesome! Then we want you to join our talented team of digital designers who work on enterprise solutions for industry-leading websites in a positive, collaborative, hybrid environment. 
+Additional Qualifications and Skills:
+Minimum of 1-2 years of experience in a UI/UX design role or similar, with a keen focus on best practices in UI/UX. 
+Working knowledge in the following software: Figma, Sketch and Adobe Suite.
+Experience in website design for desktop, tablet, and mobile with a mobile-first mindset
+Strong communication skills: Verbal, written and the ability to articulate design rationale clearly and convincingly to both clients and colleagues. •
+Ability to multitask, prioritize and adapt under fast timelines, and changing requirements in real-time. 
+
+https://www.linkedin.com/jobs/view/junior-ux-ui-designer-at-saatchi-saatchi-canada-3449516723/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca
+
+2. Mid: LUX UI & UX Design Instructor
+
+
+Salary is at $35 per hour
+Location: Markham, ON
+Lux Academy is a school focused on skill development and portfolio building for students and professionals looking to apply to jobs and college/university programs in the art and design fields. We are looking for a UI and UX designer to work as a part-time (contract-based) instructor to work with students to learn the fundamentals or advanced level of both UI and UX design and build their skills for a potential portfolio for both undergraduate, graduate, or certificate programs. 
+Additional Qualifications and Skills: 
+Master’s or graduate degree in a related field is preferred
+Minimum 3 years of professional experience in UI & UX design and/or web development 
+Introductory web development, including HTML and CSS, UX and UI, including wireframe design and prototyping methods 
+In-depth familiarity with industry standard tools and their application in the field, specifically appropriate Adobe Creative Suite applications
+Teaching experience, class management, strong verbal communication
+ 
+https://www.glassdoor.ca/job-listing/ui-and-ux-design-instructor-lux-academy-inc-JV_IC2280736_KO0,27_KE28,43.htm?jl=1008340098249&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+
+3. Senior:  Senior User Experience Designer-Native Mobile
+High end salary for this position: $103,574
+Location: Toronto, ON
+As a designer at TD, you're a true expert in your field and a strong advocate for the customer. You're formally trained in design and passionate about customer-centric innovation. You take pride in your work. You obsess over details and insist on iterating until you've gotten it right. You see feedback as a good thing. You're a great storyteller who is at ease presenting and discussing your work with clients and stakeholders. You challenge old ways of thinking and put the customer at the center of everything you do. User-Centered Design methodologies are second nature to you.
+Additional Qualifications and Skills:
+A degree in design or a design-related discipline (industrial design, user-centered design, visual design, design strategy, design management, human factors, psychology, human-computer interaction, etc.)
+Several years of experience as a user interface designer
+5+ years of experience designing responsive experiences and mobile experiences
+Ability to translate conceptual ideas into compelling customer experiences
+Strong prototyping skills demonstrated through various techniques: sketch, paper, wireframe, interactive prototypes
+Proficiency with design tools as such Axure and Adobe's Creative Suite
+Strong understanding of web and mobile technologies
+Meticulous attention to detail
+Exceptional organization, logic, and analytical skills
+Excellent verbal and written communication skills
+Ability to ask good questions and communicate effectively both verbally and in writing
+Ability to communicate ideas to a diverse audience and constructively integrate feedback
+A conceptual thinker with proven problem-solving skills
+Ability to see the "big picture" and hone-in on the details
+Strong interpersonal skills with the ability to collaborate well in a team environment
+Strong portfolio that showcases your understanding of user centered design
+https://www.glassdoor.ca/Salary/TD-Senior-User-Experience-Designer-Salaries-E3767_D_KO3,34.htm
+
+https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5602&jobid=3124759&Codes=TD010
+
 
 
