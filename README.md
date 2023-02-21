@@ -179,7 +179,7 @@ As a designer at TD, you're a true expert in your field and a strong advocate fo
 ---
 <br/><br/>
 
-                                                         Works Cited
+                                              Works Cited
 
     “Best UX Design Courses & Certifications [2023].” Coursera, https://ca.coursera.org/courses?query=ux%20design. Accessed 20 February 2023.
 
