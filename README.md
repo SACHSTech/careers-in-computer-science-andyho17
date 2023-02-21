@@ -54,6 +54,7 @@ The expected salary range of a UX designer located in Canada is:
 | Low          | $55k            |
 | Mid          | $81k            |
 | High         | $118k           |
+
 <br/><br/>
 ---
 <br/><br/>
@@ -91,9 +92,11 @@ To graduate with a degree in computer science at UofT, you must complete a minim
 ### *PhD in UX Design*
 
 To complete a PhD in UX design, you will typically need four years of education, or five years if entering directly from a bachelor’s program.
+
 <br/><br/>
 ---
 <br/><br/>
+
 ## 1.3 Experiential Learning
 <img src="https://images.ctfassets.net/2htm8llflwdx/4XolI59CsK1wMCiAfwathv/2130a24167699d727f450eafa2941388/OnlineLearning_SouthAsia_Learning_Indoor_GettyImages-1071652068.jpg" width="800" height="450">
 
@@ -102,9 +105,11 @@ UX Design is a field that provides a great deal of flexibility in terms of learn
 Furthermore, the internet is home to a plethora of free resources such as blogs, articles, and forums where you can learn from other designers and industry experts. You can also browse dedicated YouTube channels that focus on UX design and watch tutorials and case studies to hone your skills.
 
 In addition to gaining technical skills through self-teaching, you can also enhance the non-technical aspects of UX design through learning. Many new tasks require you to think creatively, which is one of the most essential skills a designer can possess.
+
 <br/><br/>
 ---
 <br/><br/>
+
 ## 1.4 Real Jobs
 <img src="https://wpassets.brainstation.io/app/uploads/2018/01/13095752/TD-Bank-3-1024x569.png.webp" width="800" height="450">
 
