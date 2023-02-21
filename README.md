@@ -3,16 +3,15 @@
 # Careers in Computer Science
 
 ## Contents
-### 1. The Basics
-### 2. Stardard Education
-### 3. Experiential Learning
-### 4. Real Jobs
-
+### [1.1 The Basics](#basics)
+### [1.2 Standard Education](#education)
+### [1.3 Experiential Learning](#learning)
+### [1.4 Real Jobs](#jobs)
 
 <br/><br/>
----
-<br/><br/>
-## 1.1 The Basics: UX Designer
+
+# Basics
+## 1.1 The Basics: UX Designer 
 ### *Description*
 
 <img src="https://blog.adobe.com/en/publish/2017/08/25/media_1db3da77f934e5a76c6b276fa990a7857673be0d8.png?width=1200&format=pjpg&optimize=medium" width="800" height="450">
@@ -59,9 +58,9 @@ The expected salary range of a UX designer located in Canada is:
 | High         | $118k           |
 
 <br/><br/>
----
-<br/><br/>
-## 1.2 Standard Education at UofT
+
+# Education
+## 1.2 University of Toronto (UofT) 
 <img src="https://media.newyorker.com/photos/6095c09e5f752d1f95e60848/master/w_2560%2Cc_limit/Gessen-UToronto.jpg" width="800" height="450">
 
 Many individuals who pursue a career in UX design typically do not enroll in a specialized UX-only program from the outset. Instead, they often develop an interest in UX after studying to become a program developer, and subsequently make the transition to the UX field. As such, the educational institution and area of learning chosen can serve as a crucial stepping stone in one's career path. Thus, **most computer-related courses** are generally considered viable options for those seeking to enter the UX field.
@@ -97,9 +96,8 @@ To graduate with a degree in computer science at UofT, you must complete a minim
 To complete a PhD in UX design, you will typically need four years of education, or five years if entering directly from a bachelor’s program.
 
 <br/><br/>
----
-<br/><br/>
 
+# Learning
 ## 1.3 Experiential Learning
 <img src="https://images.ctfassets.net/2htm8llflwdx/4XolI59CsK1wMCiAfwathv/2130a24167699d727f450eafa2941388/OnlineLearning_SouthAsia_Learning_Indoor_GettyImages-1071652068.jpg" width="800" height="450">
 
@@ -110,11 +108,13 @@ Furthermore, the internet is home to a plethora of free resources such as blogs,
 In addition to gaining technical skills through self-teaching, you can also enhance the non-technical aspects of UX design through learning. Many new tasks require you to think creatively, which is one of the most essential skills a designer can possess.
 
 <br/><br/>
----
-<br/><br/>
 
-## 1.4 Real Jobs
+# Jobs
+
+## 1.4 Three Levels of Work
 <img src="https://wpassets.brainstation.io/app/uploads/2018/01/13095752/TD-Bank-3-1024x569.png.webp" width="800" height="450">
+
+<br/><br/>
 
 ### *Junior: UX/UI Designer at Saatchi*
 
@@ -179,7 +179,7 @@ As a designer at TD, you're a true expert in your field and a strong advocate fo
 ---
 <br/><br/>
 
-                                                Works Cited
+                                                         Works Cited
 
     “Best UX Design Courses & Certifications [2023].” Coursera, https://ca.coursera.org/courses?query=ux%20design. Accessed 20 February 2023.
 
