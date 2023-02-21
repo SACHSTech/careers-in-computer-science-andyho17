@@ -88,13 +88,11 @@ To complete a PhD in UX design, you will typically need four years of education,
 
 <br/><br/>
 ## 1.3 Experiential Learning
-UX design is a field that offers a lot of flexibility when it comes to learning. 
 
-Thanks to the wealth of online resources available, it's possible to teach yourself the basics of UX design without needing to enroll in a traditional school program. One approach is to take advantage of the many online courses available, such as those offered by Udemy or Coursera.
-Another approach is through online bootcamps, both of which are similar. These paid sessions can provide structured learning opportunities, often with video lectures, assignments, and quizzes to help reinforce and present valuable concepts. 
+UX Design is a field that provides a great deal of flexibility in terms of learning opportunities. With the abundance of online resources available, it is possible to learn the basics of UX design without enrolling in a traditional educational program. One approach is to take advantage of the many online courses offered by platforms like Udemy or Coursera. Alternatively, you can opt for online bootcamps, which offer structured learning experiences that include video lectures, assignments, and quizzes to reinforce and solidify key concepts.
 
-Additionally, the internet is full of free resources such as blogs, articles, and forums where you can learn from other designers and experts in the field. Thus, you can browse YouTube channels that are dedicated to UX design and watch tutorials and case studies. 
+Furthermore, the internet is home to a plethora of free resources such as blogs, articles, and forums where you can learn from other designers and industry experts. You can also browse dedicated YouTube channels that focus on UX design and watch tutorials and case studies to hone your skills.
 
-Finally, aside from ways to gain technical skills (self-teaching) you can also improve the non-technical aspects of UX design by simply learning. Many new tasks require you to take challenges to think creatively, which is one of the most essential skills a designer should have.
+In addition to gaining technical skills through self-teaching, you can also enhance the non-technical aspects of UX design through learning. Many new tasks require you to think creatively, which is one of the most essential skills a designer can possess.
 
 
