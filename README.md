@@ -157,4 +157,32 @@ As a designer at TD, you're a true expert in your field and a strong advocate fo
 
 [Senior User Experience Designer](https://www.glassdoor.ca/Salary/TD-Senior-User-Experience-Designer-Salaries-E3767_D_KO3,34.htm)
 
+                                                Works Cited
+
+    YouTube, 10 August 2022, https://www.linkedin.com/jobs/view/junior-ux-ui-designer-at-saatchi-saatchi-canada-3449516723/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca. Accessed 20 February 2023.
+
+    YouTube, 10 August 2022, https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5602&jobid=3124759&Codes=TD010. Accessed 20 February 2023.
+
+    “Best UX Design Courses & Certifications [2023].” Coursera, https://ca.coursera.org/courses?query=ux%20design. Accessed 20 February 2023.
+
+    “Computer Science - Future Students. University of Toronto.” University of Toronto, https://future.utoronto.ca/undergraduate-programs/computer-science/. Accessed 20 February 2023.
+
+    “Computer Science Major (Science Program) - ASMAJ1689 | Academic Calendar.” Academic Calendar, https://artsci.calendar.utoronto.ca/program/asmaj1689. Accessed 20 February 2023.
+
+    Cucukovic, Aleksandar. “User Experience Design: Online Courses for Digital Products.” Udemy, https://www.udemy.com/courses/design/user-experience/. Accessed 20 February 2023.
+
+    Fleck, Renee. “How To Become A Self‑Taught UI/UX Designer (2022).” Dribbble, https://dribbble.com/resources/how-to-become-ui-ux-designer. Accessed 20 February 2023.
+
+    HANNAH, JAYE. “These Are The 9 Best UX Design Bootcamps In 2023 [Updated].” CareerFoundry, 7 December 2022, https://careerfoundry.com/en/blog/ux-design/best-ux-bootcamps-and-how-to-choose-one/. Accessed 20 February 2023.
+
+    “How To Become a UX Designer with No Experience: 9 Step Guide.” Springboard, 22 June 2022, https://www.springboard.com/blog/design/ux-no-experience/. Accessed 20 February 2023.
+
+    “Lux Academy UI & UX Design Instructor Job in Markham.” Glassdoor, https://www.glassdoor.ca/job-listing/ui-and-ux-design-instructor-lux-academy-inc-JV_IC2280736_KO0,27_KE28,43.htm?jl=1008340098249&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic. Accessed 20 February 2023.
+
+    “Salary: User Experience Designer (February, 2023).” Glassdoor, https://www.glassdoor.ca/Salaries/us-user-experience-designer-salary-SRCH_IL.0,2_IN1_KO3,27.htm. Accessed 20 February 2023.
+
+    “Salary: UX Designer (February, 2023).” Glassdoor, https://www.glassdoor.ca/Salaries/ux-designer-salary-SRCH_KO0,11.htm. Accessed 20 February 2023.
+
+    “TD Senior User Experience Designer Salaries.” Glassdoor, https://www.glassdoor.ca/Salary/TD-Senior-User-Experience-Designer-Salaries-E3767_D_KO3,34.htm. Accessed 20 February 2023
+
  
