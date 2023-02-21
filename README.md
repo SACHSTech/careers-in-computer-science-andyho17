@@ -52,13 +52,16 @@ The expected salary range of a UX designer located in Canada is:
 | High         | $118k           |
 
 <br/><br/>
-## 1.2 Standard Education 
+## 1.2 Standard Education at UofT
 
-Many individuals who pursue a career in UX design typically do not enroll in a specialized UX-only program from the outset. Instead, they often develop an interest in UX after studying to become a program developer, and subsequently make the transition to the UX field. As such, the educational institution and area of learning chosen can serve as a crucial stepping stone in one's career path. Consequently, most computer-related courses are generally considered viable options for those seeking to enter the UX field.
+Many individuals who pursue a career in UX design typically do not enroll in a specialized UX-only program from the outset. Instead, they often develop an interest in UX after studying to become a program developer, and subsequently make the transition to the UX field. As such, the educational institution and area of learning chosen can serve as a crucial stepping stone in one's career path. Thus, **most computer-related courses** are generally considered viable options for those seeking to enter the UX field.
 
-Here are some examples of a programs that can be related to UX design:
+Here is an overview for a computer science program at **University of Toronto**.
 
-### *University of Toronto (UofT) for Computer Science*
+### *Computer Science Entrance Requirements*
+
+To gain acceptance to a UX program, you will likely need to have an Ontario Secondary School Diploma with six 4U/M courses, including Calculus & Vectors (MCV4U) and English (ENG4U). A supplemental application may also be required.
+
 
 The following courses are offered duiring the first year of computer science:
 
@@ -73,18 +76,25 @@ The following courses are offered duiring the first year of computer science:
 - [MAT135H1](https://artsci.calendar.utoronto.ca/course/mat135h1) Calculus I
 - [MAT136H1](https://artsci.calendar.utoronto.ca/course/mat136h1) Calculus II
 
+### *Degree Completion*
 These are some of the courses that you can take in your first year of UofT's computer science program. Some of these courses may be omitted if the candidate has a strong background in the content (programming language) that is being learned. 
 
 To graduate with a degree in computer science at UofT, you must complete a minimum of 20.0 credits, comprising your program requirements, electives and breadth requirements, as well as a minimum CGPA.
 
-### Ontario Secondary School Diploma
 
-To gain acceptance to a UX program, you will likely need to have an Ontario Secondary School Diploma with six 4U/M courses, including Calculus & Vectors (MCV4U) and English (ENG4U). A supplemental application may also be required.
-
-### PhD in UX Design
+### *PhD in UX Design*
 
 To complete a PhD in UX design, you will typically need four years of education, or five years if entering directly from a bachelor’s program.
 
+<br/><br/>
+## 1.3 Experiential Learning
+UX design is a field that offers a lot of flexibility when it comes to learning. 
+
+Thanks to the wealth of online resources available, it's possible to teach yourself the basics of UX design without needing to enroll in a traditional school program. One approach is to take advantage of the many online courses available, such as those offered by Udemy or Coursera.
+Another approach is through online bootcamps, both of which are similar. These paid sessions can provide structured learning opportunities, often with video lectures, assignments, and quizzes to help reinforce and present valuable concepts. 
+
+Additionally, the internet is full of free resources such as blogs, articles, and forums where you can learn from other designers and experts in the field. Thus, you can browse YouTube channels that are dedicated to UX design and watch tutorials and case studies. 
+
+Finally, aside from ways to gain technical skills (self-teaching) you can also improve the non-technical aspects of UX design by simply learning. Many new tasks require you to take challenges to think creatively, which is one of the most essential skills a designer should have.
 
 
-test commit - starting
