@@ -13,6 +13,7 @@
 ### *Description*
 
 <img src="https://blog.adobe.com/en/publish/2017/08/25/media_1db3da77f934e5a76c6b276fa990a7857673be0d8.png?width=1200&format=pjpg&optimize=medium" width="800" height="450">
+
 A UX Designer, also known as a "**User Experience Designer**," plays a crucial role in developing digital products that offer an enjoyable UI experience for users on the web and apps.
 
 They conduct extensive research to gain an in-depth understanding of user requirements and preferences and utilize this information to create detailed wireframes, prototypes, and user flow diagrams.
@@ -56,6 +57,7 @@ The expected salary range of a UX designer located in Canada is:
 
 <br/><br/>
 ## 1.2 Standard Education at UofT
+<img src="https://media.newyorker.com/photos/6095c09e5f752d1f95e60848/master/w_2560%2Cc_limit/Gessen-UToronto.jpg" width="800" height="450">
 
 Many individuals who pursue a career in UX design typically do not enroll in a specialized UX-only program from the outset. Instead, they often develop an interest in UX after studying to become a program developer, and subsequently make the transition to the UX field. As such, the educational institution and area of learning chosen can serve as a crucial stepping stone in one's career path. Thus, **most computer-related courses** are generally considered viable options for those seeking to enter the UX field.
 
@@ -91,6 +93,7 @@ To complete a PhD in UX design, you will typically need four years of education,
 
 <br/><br/>
 ## 1.3 Experiential Learning
+<img src="https://images.ctfassets.net/2htm8llflwdx/4XolI59CsK1wMCiAfwathv/2130a24167699d727f450eafa2941388/OnlineLearning_SouthAsia_Learning_Indoor_GettyImages-1071652068.jpg" width="800" height="450">
 
 UX Design is a field that provides a great deal of flexibility in terms of learning opportunities. With the abundance of online resources available, it is possible to learn the basics of UX design without enrolling in a traditional educational program. One approach is to take advantage of the many online courses offered by platforms like Udemy or Coursera. Alternatively, you can opt for online bootcamps, which offer structured learning experiences that include video lectures, assignments, and quizzes to reinforce and solidify key concepts.
 
@@ -100,6 +103,8 @@ In addition to gaining technical skills through self-teaching, you can also enha
 
 <br/><br/>
 ## 1.4 Real Jobs
+<img src="https://wpassets.brainstation.io/app/uploads/2018/01/13095752/TD-Bank-3-1024x569.png.webp" width="800" height="450">
+
 ### *Junior: UX/UI Designer at Saatchi*
 
 Salary starting at **42k** (based on traditional pay for this position on Glassdoor) \
@@ -138,7 +143,7 @@ Lux Academy is a school focused on skill development and portfolio building for 
 
 ### *Senior: User Experience Designer-Native Mobile*
 
-Highe-end salary for this position: **$103,574** \
+High-end salary for this position: **$103,574** \
 Location: **Toronto, ON**
 
 As a designer at TD, you're a true expert in your field and a strong advocate for the customer. You're formally trained in design and passionate about customer-centric innovation. You take pride in your work. You obsess over details and insist on iterating until you've gotten it right. You see feedback as a good thing. You're a great storyteller who is at ease presenting and discussing your work with clients and stakeholders. You challenge old ways of thinking and put the customer at the center of everything you do. User-Centered Design methodologies are second nature to you.
@@ -187,4 +192,18 @@ As a designer at TD, you're a true expert in your field and a strong advocate fo
 
     “TD Senior User Experience Designer Salaries.” Glassdoor, https://www.glassdoor.ca/Salary/TD-Senior-User-Experience-Designer-Salaries-E3767_D_KO3,34.htm. Accessed 20 February 2023
 
- 
+<br/><br/>
+
+                                             Works Cited (Images)
+
+    https://wpassets.brainstation.io/app/uploads/2018/01/13095752/TD-Bank-3-1024x569.png.webp
+
+    https://images.ctfassets.net/2htm8llflwdx/4XolI59CsK1wMCiAfwathv/2130a24167699d727f450eafa2941388/OnlineLearning_SouthAsia_Learning_Indoor_GettyImages-1071652068.jpg
+
+    https://blog.adobe.com/en/publish/2017/08/25/media_1db3da77f934e5a76c6b276fa990a7857673be0d8.png?width=1200&format=pjpg&optimize=medium
+
+    https://media.newyorker.com/photos/6095c09e5f752d1f95e60848/master/w_2560%2Cc_limit/Gessen-UToronto.jpg
+
+
+
+    
