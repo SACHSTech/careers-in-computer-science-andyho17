@@ -51,5 +51,39 @@ The expected salary range of a UX designer located in Canada is:
 | High         | $118k           |
 
 
+## University Education for UX Designers
+
+Most people who enter the UX field do not usually sign up for a UX-only program. Instead, they may have discovered their interest in UX after studying to be a program developer and thus transitioned to this career field. Therefore, the chosen institution and area of learning is meant to act as a stepping stone in your career. Thus, most computer-related courses will be a viable choice as you attempt to enter this field.
+
+Here are some examples of courses and programs related to UX design:
+
+### University of Toronto (UofT) for Computer Science
+
+The following courses are offered at UofT for computer science:
+
+- CSCA08 - Introduction to Computer Science
+- CSCA20 - Introduction to Programming
+- CSC165H1: Mathematical Expression and Reasoning for Computer Science
+- CSC240H1: Enriched Introduction to the Theory of Computation
+- CSC110Y1: Foundations of Computer Science I
+- CSC111H1: Foundations of Computer Science II
+- MAT137Y1: Calculus with Proofs
+- MAT157Y1: Analysis I
+- MAT135H1: Calculus I
+- MAT136H1: Calculus II
+
+These are some of the courses that you can take in your first year of UofT's computer science program. Some of these courses may be omitted if the candidate has a strong background in the content (programming language) that is being learned. 
+
+To graduate with a degree in computer science at UofT, you must complete a minimum of 20.0 credits, comprising your program requirements, electives and breadth requirements, as well as a minimum CGPA.
+
+### Ontario Secondary School Diploma
+
+To gain acceptance to a UX program, you will likely need to have an Ontario Secondary School Diploma with six 4U/M courses, including Calculus & Vectors (MCV4U) and English (ENG4U). A supplemental application may also be required.
+
+### PhD in UX Design
+
+To complete a PhD in UX design, you will typically need four years of education, or five years if entering directly from a bachelor’s program.
+
+
 
 test commit - starting
