@@ -61,7 +61,7 @@ Here is an overview for a computer science program at **University of Toronto**.
 
 ### *Computer Science Entrance Requirements*
 
-To gain acceptance to a UX program, you will likely need to have an Ontario Secondary School Diploma with six 4U/M courses, including Calculus & Vectors (MCV4U) and English (ENG4U). A supplemental application may also be required.
+To gain acceptance to a UX program, you will likely need to have an Ontario Secondary School Diploma with **six 4U/M courses**, including Calculus & Vectors (MCV4U) and English (ENG4U). A supplemental application may also be required.
 
 
 The following courses are offered duiring the first year of computer science:
@@ -80,7 +80,7 @@ The following courses are offered duiring the first year of computer science:
 ### *Degree Completion*
 These are some of the courses that you can take in your first year of UofT's computer science program. Some of these courses may be omitted if the candidate has a strong background in the content (programming language) that is being learned. 
 
-To graduate with a degree in computer science at UofT, you must complete a minimum of 20.0 credits, comprising your program requirements, electives and breadth requirements, as well as a minimum CGPA.
+To graduate with a degree in computer science at UofT, you must complete a minimum of **20.0 credits**, comprising your program requirements, electives and breadth requirements, as well as a **minimum CGPA**.
 
 
 ### *PhD in UX Design*
@@ -98,14 +98,14 @@ In addition to gaining technical skills through self-teaching, you can also enha
 
 <br/><br/>
 ## 1.4 Real Jobs
-## Junior UX/UI Designer at Saatchi
+## Junior: UX/UI Designer at Saatchi
 
 Salary starting at **42k** (based on traditional pay for this position on Glassdoor) \
 Location: **Toronto, ON**
 
 Are you a talented, multi-skilled Junior UI/UX designer with a knack for taking complex business requirements and turning them into visually exciting, seamless online experiences across multiple platforms, browsers, and devices? Awesome! Then we want you to join our talented team of digital designers who work on enterprise solutions for industry-leading websites in a positive, collaborative, hybrid environment.
 
-### Additional Qualifications and Skills:
+### Entr: Additional Qualifications and Skills:
 
 - Minimum of **1-2 years** of experience in a UI/UX design role or similar, with a keen focus on best practices in UI/UX.
 - Working knowledge in the following software: **Figma**, **Sketch** and **Adobe Suite**.
@@ -113,10 +113,10 @@ Are you a talented, multi-skilled Junior UI/UX designer with a knack for taking 
 - Strong communication skills: Verbal, written and the ability to articulate design rationale clearly and convincingly to both clients and colleagues.
 - Ability to multitask, prioritize and adapt under fast timelines, and changing requirements in real-time.
 
-[Junior UX/UI Designer at Saatchi](https://www.linkedin.com/jobs/view/junior-ux-ui-designer-at-saatchi-saatchi-canada-3449516723/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca)
+[Junior Designer](https://www.linkedin.com/jobs/view/junior-ux-ui-designer-at-saatchi-saatchi-canada-3449516723/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca)
 <br/><br/>
 
-##  LUX UI & UX Design Instructor
+## Mid: LUX UI & UX Design Instructor
 
 Salary is at **$35 per hour** \
 Location: **Markham, ON**
@@ -131,7 +131,7 @@ Lux Academy is a school focused on skill development and portfolio building for 
 - In-depth familiarity with industry standard tools and their application in the field, specifically appropriate **Adobe Creative Suite** applications
 - Teaching experience, class management, strong verbal communication
 
-[LUX UI & UX Design Instructor](https://www.glassdoor.ca/job-listing/ui-and-ux-design-instructor-lux-academy-inc-JV_IC2280736_KO0,27_KE28,43.htm?jl=1008340098249&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+[UI & UX Design Instructor](https://www.glassdoor.ca/job-listing/ui-and-ux-design-instructor-lux-academy-inc-JV_IC2280736_KO0,27_KE28,43.htm?jl=1008340098249&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 <br/><br/>
 
 ## Senior: User Experience Designer-Native Mobile
@@ -155,4 +155,6 @@ As a designer at TD, you're a true expert in your field and a strong advocate fo
 - A conceptual thinker with proven problem-solving skills
 - Strong interpersonal skills with the ability to collaborate well in a team environment
 
-[Glassdo](https://www.glassdoor.ca/Salary/TD-Senior-User-Experience-Designer-Salaries-E3767_D_KO3,34.htm)
+[Senior User Experience Designer](https://www.glassdoor.ca/Salary/TD-Senior-User-Experience-Designer-Salaries-E3767_D_KO3,34.htm)
+
+ 
