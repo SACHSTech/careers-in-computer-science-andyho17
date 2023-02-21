@@ -57,6 +57,7 @@ The expected salary range of a UX designer located in Canada is:
 | Mid          | $81k            |
 | High         | $118k           |
 
+[*back to contents*](#contents)
 <br/><br/>
 
 # Education
@@ -70,7 +71,6 @@ Here is an overview for a computer science program at **University of Toronto**.
 ### *Computer Science Entrance Requirements*
 
 To gain acceptance to a UX program, you will likely need to have an Ontario Secondary School Diploma with **six 4U/M courses**, including Calculus & Vectors (MCV4U) and English (ENG4U). A supplemental application may also be required.
-
 
 The following courses are offered duiring the first year of computer science:
 
@@ -90,11 +90,11 @@ These are some of the courses that you can take in your first year of UofT's com
 
 To graduate with a degree in computer science at UofT, you must complete a minimum of **20.0 credits**, comprising your program requirements, electives and breadth requirements, as well as a **minimum CGPA**.
 
-
 ### *PhD in UX Design*
 
 To complete a PhD in UX design, you will typically need four years of education, or five years if entering directly from a bachelor’s program.
 
+[*back to contents*](#contents)
 <br/><br/>
 
 # Learning
@@ -107,10 +107,10 @@ Furthermore, the internet is home to a plethora of free resources such as blogs,
 
 In addition to gaining technical skills through self-teaching, you can also enhance the non-technical aspects of UX design through learning. Many new tasks require you to think creatively, which is one of the most essential skills a designer can possess.
 
+[*back to contents*](#contents)
 <br/><br/>
 
 # Jobs
-
 ## 1.4 Three Levels of Work
 <img src="https://wpassets.brainstation.io/app/uploads/2018/01/13095752/TD-Bank-3-1024x569.png.webp" width="800" height="450">
 
@@ -175,9 +175,11 @@ As a designer at TD, you're a true expert in your field and a strong advocate fo
 
 [Senior User Experience Designer](https://www.glassdoor.ca/Salary/TD-Senior-User-Experience-Designer-Salaries-E3767_D_KO3,34.htm)
 
-
 ---
+
+[*back to contents*](#contents)
 <br/><br/>
+
 
                                               Works Cited
 
