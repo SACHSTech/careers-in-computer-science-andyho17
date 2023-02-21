@@ -3,12 +3,15 @@
 # Careers in Computer Science
 
 ## Contents
-* 1.1 The Basics
-* 1.2 Stardard Education
-* 1.3 Experiential Learning
-* 1.4 Real Jobs
-<br/><br/>
+### 1. The Basics
+### 2. Stardard Education
+### 3. Experiential Learning
+### 4. Real Jobs
 
+
+<br/><br/>
+---
+<br/><br/>
 ## 1.1 The Basics: UX Designer
 ### *Description*
 
