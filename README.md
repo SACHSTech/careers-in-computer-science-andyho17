@@ -22,7 +22,7 @@ They conduct extensive research to gain an in-depth understanding of user requir
 
 Working closely with cross-functional teams, including developers and product managers, UX designers ensure that the final product meets both business objectives and user needs. They keep up-to-date with the latest technology and design trends; continuously refining their skills and techniques to enhance their work.
 
-### *Education*
+### *Education Requirements*
 While there are **no strict education requirements** to become a UX designer, a degree in a computer-related program can enhance your chances of success. However, many professionals in this field find success without a bachelor's degree, with their exceptional hard and soft skills.
 
 ### *Technical and Non-Technical Skills*
