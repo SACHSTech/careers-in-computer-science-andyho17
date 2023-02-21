@@ -54,7 +54,8 @@ The expected salary range of a UX designer located in Canada is:
 | Low          | $55k            |
 | Mid          | $81k            |
 | High         | $118k           |
-
+<br/><br/>
+---
 <br/><br/>
 ## 1.2 Standard Education at UofT
 <img src="https://media.newyorker.com/photos/6095c09e5f752d1f95e60848/master/w_2560%2Cc_limit/Gessen-UToronto.jpg" width="800" height="450">
@@ -90,7 +91,8 @@ To graduate with a degree in computer science at UofT, you must complete a minim
 ### *PhD in UX Design*
 
 To complete a PhD in UX design, you will typically need four years of education, or five years if entering directly from a bachelor’s program.
-
+<br/><br/>
+---
 <br/><br/>
 ## 1.3 Experiential Learning
 <img src="https://images.ctfassets.net/2htm8llflwdx/4XolI59CsK1wMCiAfwathv/2130a24167699d727f450eafa2941388/OnlineLearning_SouthAsia_Learning_Indoor_GettyImages-1071652068.jpg" width="800" height="450">
@@ -100,7 +102,8 @@ UX Design is a field that provides a great deal of flexibility in terms of learn
 Furthermore, the internet is home to a plethora of free resources such as blogs, articles, and forums where you can learn from other designers and industry experts. You can also browse dedicated YouTube channels that focus on UX design and watch tutorials and case studies to hone your skills.
 
 In addition to gaining technical skills through self-teaching, you can also enhance the non-technical aspects of UX design through learning. Many new tasks require you to think creatively, which is one of the most essential skills a designer can possess.
-
+<br/><br/>
+---
 <br/><br/>
 ## 1.4 Real Jobs
 <img src="https://wpassets.brainstation.io/app/uploads/2018/01/13095752/TD-Bank-3-1024x569.png.webp" width="800" height="450">
@@ -112,7 +115,7 @@ Location: **Toronto, ON**
 
 Are you a talented, multi-skilled Junior UI/UX designer with a knack for taking complex business requirements and turning them into visually exciting, seamless online experiences across multiple platforms, browsers, and devices? Awesome! Then we want you to join our talented team of digital designers who work on enterprise solutions for industry-leading websites in a positive, collaborative, hybrid environment.
 
-#### Entr: Additional Qualifications and Skills:
+#### *Additional Qualifications and Skills:*
 
 - Minimum of **1-2 years** of experience in a UI/UX design role or similar, with a keen focus on best practices in UI/UX.
 - Working knowledge in the following software: **Figma**, **Sketch** and **Adobe Suite**.
@@ -130,7 +133,7 @@ Location: **Markham, ON**
 
 Lux Academy is a school focused on skill development and portfolio building for students and professionals looking to apply to jobs and college/university programs in the art and design fields. We are looking for a UI and UX designer to work as a part-time (contract-based) instructor to work with students to learn the fundamentals or advanced level of both UI and UX design and build their skills for a potential portfolio for both undergraduate, graduate, or certificate programs.
 
-#### Additional Qualifications and Skills:
+#### *Additional Qualifications and Skills:*
 
 - Master’s or graduate degree in a related field is preferred
 - Minimum **3 years** of professional experience in UI & UX design and/or web development
@@ -148,7 +151,7 @@ Location: **Toronto, ON**
 
 As a designer at TD, you're a true expert in your field and a strong advocate for the customer. You're formally trained in design and passionate about customer-centric innovation. You take pride in your work. You obsess over details and insist on iterating until you've gotten it right. You see feedback as a good thing. You're a great storyteller who is at ease presenting and discussing your work with clients and stakeholders. You challenge old ways of thinking and put the customer at the center of everything you do. User-Centered Design methodologies are second nature to you.
 
-#### Additional Qualifications and Skills:
+#### *Additional Qualifications and Skills:*
 
 - A degree in design or a design-related discipline (industrial design, user-centered design, visual design, design strategy, design management, human factors, psychology, human-computer interaction, etc.)
 - Several years of experience as a user interface designer
@@ -164,11 +167,11 @@ As a designer at TD, you're a true expert in your field and a strong advocate fo
 
 [Senior User Experience Designer](https://www.glassdoor.ca/Salary/TD-Senior-User-Experience-Designer-Salaries-E3767_D_KO3,34.htm)
 
+
+---
+<br/><br/>
+
                                                 Works Cited
-
-    YouTube, 10 August 2022, https://www.linkedin.com/jobs/view/junior-ux-ui-designer-at-saatchi-saatchi-canada-3449516723/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca. Accessed 20 February 2023.
-
-    YouTube, 10 August 2022, https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5602&jobid=3124759&Codes=TD010. Accessed 20 February 2023.
 
     “Best UX Design Courses & Certifications [2023].” Coursera, https://ca.coursera.org/courses?query=ux%20design. Accessed 20 February 2023.
 
