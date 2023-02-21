@@ -11,6 +11,8 @@
 
 ## 1.1 The Basics: UX Designer
 ### *Description*
+
+<img src="https://blog.adobe.com/en/publish/2017/08/25/media_1db3da77f934e5a76c6b276fa990a7857673be0d8.png?width=1200&format=pjpg&optimize=medium" width="800" height="450">
 A UX Designer, also known as a "**User Experience Designer**," plays a crucial role in developing digital products that offer an enjoyable UI experience for users on the web and apps.
 
 They conduct extensive research to gain an in-depth understanding of user requirements and preferences and utilize this information to create detailed wireframes, prototypes, and user flow diagrams.
